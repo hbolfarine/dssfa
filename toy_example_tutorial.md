@@ -117,7 +117,7 @@ out = EFA_unconstrained(y, kmax, 1, 1, alg_burn_in, alg_iter)
 From the posterior samples obtained by the Gibbs sampler, we create an
 object used in the optimization step. This object contains the number of
 variables, posterior loadings, posterior uniqueness, prior choice, the
-final number of simulations, and thinning.
+final length of the posteior samples, and thinning.
 ```r
 
 # Create a new list.

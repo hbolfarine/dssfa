@@ -1,6 +1,5 @@
 # Tutorial DSSFA
 
-
 This tutorial contains R code to perform the analysis of the simple
 example in the article “Decoupling Shrinkage and Selection in Gaussian Linear Factor Analysis”. 
 Here, we present the three step procedure of our

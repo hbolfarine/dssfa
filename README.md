@@ -1,6 +1,6 @@
 # DSSFA tutorial
 
-This repository is associated with the paper "Decoupling Shrinkage and Selection in Gaussian Linear Factor Analysis"" and provides codes and tutorials on the example in Subsection 2.5 and the application in Section 4.
+This repository is associated with the paper "Decoupling Shrinkage and Selection in Gaussian Linear Factor Analysis"[arXiv](https://arxiv.org/abs/2006.11908) and provides codes and tutorials on the example in Subsection 2.5 and the application in Section 4.
 
 ## Contents
 
